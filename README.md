@@ -1,7 +1,7 @@
 # Howto
 
 ## Report a bug
-...or _issue_ if you will.
+...or _"issue"_ if you will.
 
 A _bug_ is an _unexpected behaviour_ -- usually erroneous -- of a software component or in a data package.
 Many bugs are evident from either the user perspective and developer's -- for instance, _"the app crashes when the username/password are tried blank"_ --, **but** many other bugs are not _that_ evident.
